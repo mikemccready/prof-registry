@@ -2,7 +2,7 @@
     "name": "Profile Test",
     "website": "https://etherscan.io/",
     "description": "test profile",
-    "github": "https://github.com"
+    "github": "https://github.com",
     "socials": [
         {
             "name": "Twitter",
