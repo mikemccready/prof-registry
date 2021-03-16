@@ -1,0 +1,13 @@
+{
+    "name": "Profile Test",
+    "website": "https://etherscan.io/",
+    "description": "test profile",
+    "github": "https://github.com"
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com",
+            "handle": "Twitter"
+        }
+    ],
+}
